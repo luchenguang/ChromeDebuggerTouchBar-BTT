@@ -1,6 +1,6 @@
 {
   "BTTPresetName" : "ChromeDebugger",
-  "BTTPresetUUID" : "A030E76A-6120-48DC-9451-709B5E711138",
+  "BTTPresetUUID" : "45809AF4-67AF-4086-8E35-CFD201787057",
   "BTTPresetContent" : [
     {
       "BTTAppBundleIdentifier" : "BT.G",
@@ -10,7 +10,6 @@
       },
       "BTTTriggers" : [
         {
-          "BTTGestureNotes" : "打开Chrome调试Touch Bar",
           "BTTTriggerType" : 643,
           "BTTTriggerTypeDescription" : "Named Trigger: Open",
           "BTTTriggerClass" : "BTTTriggerTypeOtherTriggers",
@@ -27,7 +26,6 @@
           }
         },
         {
-          "BTTGestureNotes" : "关闭Chrome调试Touch Bar",
           "BTTTriggerType" : 643,
           "BTTTriggerTypeDescription" : "Named Trigger: Close",
           "BTTTriggerClass" : "BTTTriggerTypeOtherTriggers",
